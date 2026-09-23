@@ -15,8 +15,7 @@ wrong label is not graded.
 
 **Issue link**
 
-[[The individual Path Review issue page. A link to the repository or the issue list
-does not satisfy this field.]](https://github.com/codepath/pathreview-ai301-fa26-s1/issues/73)
+https://github.com/codepath/pathreview-ai301-fa26-s1/issues/73
 
 **Verdict output**
 
