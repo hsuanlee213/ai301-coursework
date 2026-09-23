@@ -20,6 +20,15 @@ does not satisfy this field.]](https://github.com/codepath/pathreview-ai301-fa26
 
 **Verdict output**
 
+
+
+**The verdict must record `accept` for this issue.** Choose an issue your own skill
+accepts. If your skill rejects every candidate you try, that is a signal about your
+rubric rather than about the issues: revise it and re-run — retries are unlimited and a
+partial re-run costs about $0.20 — or run the skill on different candidates. Output
+recording `reject` for the issue you chose earns no credit for this field.
+
+```
 {
   "item": "https://github.com/codepath/pathreview-ai301-fa26-s1/issues/73",
   "checks": [
@@ -31,15 +40,6 @@ does not satisfy this field.]](https://github.com/codepath/pathreview-ai301-fa26
   ],
   "verdict": "accept"
 }
-
-**The verdict must record `accept` for this issue.** Choose an issue your own skill
-accepts. If your skill rejects every candidate you try, that is a signal about your
-rubric rather than about the issues: revise it and re-run — retries are unlimited and a
-partial re-run costs about $0.20 — or run the skill on different candidates. Output
-recording `reject` for the issue you chose earns no credit for this field.
-
-```
-paste the output here, including the closing JSON block
 ```
 
 ---
