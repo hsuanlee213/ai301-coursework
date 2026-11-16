@@ -4,11 +4,11 @@
 
 **Pull request**
 
-Pending — to be filled in after opening the PR.
+https://github.com/codepath/pathreview-ai301-fa26-s1/pull/254
 
 **Branch**
 
-Pending — to be filled in after confirming the branch.
+fix/73-env-example-openrouter
 
 ## Eval iterations
 
